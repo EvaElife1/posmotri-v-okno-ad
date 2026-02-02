@@ -1,2 +1,2 @@
-https://github.com/EvaElife1/posmotri-v-okno.git
+https://github.com/EvaElife1/posmotri-v-okno-ad
 
